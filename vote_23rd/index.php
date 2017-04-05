@@ -48,6 +48,7 @@
           <div class="inner cover">
             <h1 class="cover-heading">NTUESA</h1>
             <p class="lead">第 23 屆 學生會選舉</p>
+            <img src="vote_b.jpg">
             <p class="lead">
               <a href="https://www.facebook.com/dreammner.li" class="btn btn-lg btn-default">About Me</a>
             </p>
